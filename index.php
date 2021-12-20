@@ -194,16 +194,19 @@
             </div>
         </div>
     </div>
+    <hr>
 
     <form id="myFormUpdate" action="#agenda" method="" autocomplete="on" validate>
+        <h3><font color="blue">แก้ไขข้อมูลเพิ่มเติม</font></h3>
+        <hr>
         <div class="form-group">
             <h4><label for="inputDate">วันที่จอง</label></h4>
             <input type="date" class="form-control" id="inputDate" name="date" required />
         </div>
 
         <div class="form-group">
-            <br>
-            <h4><label>เพิ่มชุดอาหาร</label></h4>
+            <hr>
+            <h><label>เพิ่มชุดอาหาร</label></h>
             <div class="d-flex flex-row justify-content-between align-items-center">
                 <select class="form-control mr-1" id="inputStartTimeHour" name="startHour" required>
                     <option value="" disabled selected>...</option>
