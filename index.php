@@ -44,7 +44,7 @@
                     <h2>
                         <font color="red">Food_PNG.com</font>
                     </h2>
-                    <p>มื้อโปรด สำหรับคุณ</p>
+                    <p>จัดงานเลี้ยงสุดพิเศษ สำหรับคุณ</p>
                 </div>
                 <hr>
 
@@ -203,10 +203,10 @@
 
         <div class="form-group">
             <br>
-            <h4><label>Start Time</label></h4>
+            <h4><label>เพิ่มชุดอาหาร</label></h4>
             <div class="d-flex flex-row justify-content-between align-items-center">
                 <select class="form-control mr-1" id="inputStartTimeHour" name="startHour" required>
-                    <option value="" disabled selected>เพิ่มชุดอาหาร</option>
+                    <option value="" disabled selected>...</option>
                     <option value="ชุดเล็ก">ชุดเล็ก</option>
                     <option value="ชุดกลาง">ชุดกลาง</option>
                     <option value="ชุดใหญ่">ชุดใหญ่</option>
@@ -219,10 +219,10 @@
 
             <div class="form-group">
                 <br>
-                <h4><label>End Time</label></h4>
+                <h4><label>เพิ่มชุดเครื่องดื่ม</label></h4>
                 <div class="d-flex flex-row justify-content-between align-items-center">
                     <select class="form-control mr-1" id="inputEndTimeHour" name="endHour" required>
-                        <option value="" disabled selected>เพิ่มชุดเครื่องดื่ม</option>
+                        <option value="" disabled selected>...</option>
                         <option value="ชุดเล็ก">ชุดเล็ก</option>
                         <option value="ชุดกลาง">ชุดกลาง</option>
                         <option value="ชุดใหญ่">ชุดใหญ่</option>
