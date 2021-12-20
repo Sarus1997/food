@@ -197,7 +197,7 @@
 
     <form id="myFormUpdate" action="#agenda" method="" autocomplete="on" validate>
         <div class="form-group">
-            <h4><label for="inputDate">Date</label></h4>
+            <h4><label for="inputDate">วันที่จอง</label></h4>
             <input type="date" class="form-control" id="inputDate" name="date" required />
         </div>
 
